@@ -38,8 +38,8 @@
 
 				
 	svg > g > circle {
-	  stroke: var(--color-text-primary);
-	  fill: var(--color-text-primary);
+	  stroke: var(--color-text-link);
+	  fill: var(--color-text-link);
 	}
 
 			</style>
