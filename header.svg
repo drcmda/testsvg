@@ -36,6 +36,11 @@
           animation: float ease-in-out 4s infinite alternate;
         }
 
+				
+	svg > g > circle {
+	  stroke: var(--color-text-primary);
+	  fill: var(--color-text-primary);
+	}
 
 			</style>
 			<svg width="100%" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
